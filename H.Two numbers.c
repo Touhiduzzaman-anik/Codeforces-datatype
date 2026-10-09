@@ -5,7 +5,7 @@ int main()
     int  A,B;
     float  X,Y,Z;
     scanf("%d %d",&A,&B);
-    X=floor((float)A/B);//floor ceil and round er jnno math.h use korte hoi.
+    X=floor((float)A/B);
     Y=ceil((float)A/B);
     Z=round((float)A/B);
 
