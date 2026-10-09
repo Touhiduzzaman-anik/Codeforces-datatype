@@ -3,8 +3,7 @@ int main()
 {
     int x;
     long long y;
-    char ch[10];/*aikane just char ch use korle hbe na karon black screen e 2nd data er por space dise je oita o
-    character hisebe input nia felle*/
+    char ch[10];
     float t;
     double d;
     scanf("%d",&x);
